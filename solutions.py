@@ -3,10 +3,10 @@ num1 = 8
 num2 = 3
 
 #1. Addition
-#Add the two variables and store it to a new variable named sum.
-#Print the sum variable.
-sum = num1 + num2
-print(sum)
+#Add the two variables and store it to a new variable named total.
+#Print the total variable.
+total = num1 + num2
+print(total)
 
 #2 Subtraction
 #Subtract the two variables and store it to a new variable named difference. 
