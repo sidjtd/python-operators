@@ -33,10 +33,10 @@ remainder = num1 % num2
 print(remainder)
 
 #6 Exponent
-#Find the square of the num1 and store it to a new variable named square. 
-#Print the square variable.
-square = num1 ** 2
-print(square)
+#Find the square of the num1 and store it to a new variable named double. 
+#Print the double variable.
+double = num1 ** 2
+print(double)
 
 #7 Floor Division
 #Divide the two variables to find the rounded down integer and store it to a new variable named int_div.
