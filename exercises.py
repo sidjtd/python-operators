@@ -21,8 +21,8 @@
 #Print the remainder variable.
 
 #6 Exponent
-#Find the square root of the num1 and store it to a new variable named square_root. 
-#Print the square_root variable.
+#Find the square of the num1 and store it to a new variable named double. 
+#Print the double variable.
 
 #7 Floor Division
 #Divide the two variables to find the rounded down integer and store it to a new variable named int_div.
